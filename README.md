@@ -1,4 +1,4 @@
-Independent engineer in Sydney. Contract work on product and software builds, plus my own products. Game design came first; robotics is the pull now.
+Independent engineer in Sydney. Contract work on product and software builds, plus my own products. Studying robotics, experimenting in AI-powered TCP watcher, and playing in game development.
 
 ## Shipped
 

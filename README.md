@@ -1,4 +1,4 @@
-Independent engineer in Sydney. Contract work on product and software builds, plus my own products. Game design came first; software came after.
+Independent engineer in Sydney. Contract work on product and software builds, plus my own products. Game design came first; robotics is the pull now.
 
 ## Shipped
 
@@ -8,9 +8,9 @@ Independent engineer in Sydney. Contract work on product and software builds, pl
 - OWASP ZAP security automation at Wallethub, covering web vulnerabilities and known CVEs, with exploits escalated from Bugcrowd and HackerOne
 - [Vargos](https://github.com/vargos-labs/vargos), my own agent platform. [CramClass](https://cramclass.com) and [RotiHoney](https://rotihoney.com) live, [Chans](https://chans.ai) in preview
 
-## Where I play
+## Robotics, games, and local AI
 
-Robotics and game development. Local inference on my own hardware: vLLM, llama.cpp, ComfyUI and Stable Diffusion. Four Qwen builds on [Hugging Face](https://huggingface.co/choz). Hobby work, for now.
+Robotics, autonomous systems, and game development. Local inference on my own hardware: vLLM, llama.cpp, ComfyUI and Stable Diffusion. Four Qwen builds on [Hugging Face](https://huggingface.co/choz). Hobby work, for now.
 
 ```
 $ vargos agent status
